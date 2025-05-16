@@ -42,3 +42,5 @@ Hola Mundo
 ```
 
 ¡Felicidades! Has ejecutado tu primer programa en Python.
+
+print("hola mundo")

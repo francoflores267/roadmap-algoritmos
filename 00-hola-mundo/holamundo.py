@@ -4,3 +4,5 @@
 
 # La siguiente línea de código utiliza la función `print` para mostrar texto en la pantalla.
 print("Hola Mundo")
+print("hola 
+mundo")
